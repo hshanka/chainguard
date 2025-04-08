@@ -1,0 +1,9 @@
+# Python bytecode cache and compiled files
+__pycache__/
+*.pyc
+
+# VS Code settings directory (optional)
+.vscode/
+
+# macOS system file
+.DS_Store
